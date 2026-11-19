@@ -1,0 +1,1 @@
+{"dependencies":{"viem":"^2.57.20"},"description":"PoC for Bull.family bug bounty report B-18: SDK lock() checks the lock beneficiary only after the transaction is mined — server locks the user's tokens for the attacker (local Anvil only, no real funds).","name":"bull-poc-b18-lock-beneficiary","private":true,"type":"module","version":"1.0.0"}
